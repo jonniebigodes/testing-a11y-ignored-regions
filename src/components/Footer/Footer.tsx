@@ -100,7 +100,7 @@ export const Footer = () => {
                 style={{
                   fontSize: '0.8rem',
                   fontFamily: 'monospace',
-                  color: 'white',
+                  color: '#8a8a8a',
                 }}
               >
                 Version 3.2 updated at {new Date().toLocaleString()}
